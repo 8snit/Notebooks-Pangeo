@@ -39,4 +39,5 @@ dependencies:
   - tornado=5.1.1
   - pip:
     - sat-search==0.2.0
-    - dask-labextension==0.3.1
+    - sat-stac==0.1.0
+    - dask-labextension==0.3.1    
